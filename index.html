@@ -17,6 +17,47 @@
 
 	<body>
 
+<!-- div for the legend and date controls -->
+		<div id='console'>
+			<h1>Charter Campuses in Texas</h1>
+			
+			<!--BEGIN 'INSTRUCTIONS'-->
+
+				<p class="instructionstitle">Map Instructions
+				<p class="instructionstext">Use the play, forward, and backward buttons below to animate the map through time. The size of the point indicates the number of students enrolled that year. Click any point on the map to learn more about a campus. Click 'Show history chart' on the bottom of the map to see trends over time in a school district or charter holder. Within the chart, use the Left and Right drop-down menus to change the data shown on the left and right Y axes.</p>
+
+			<!--END 'INSTRUCTIONS'-->	
+				
+			<!--create legend-->
+			<div class='session'>
+				<h2>Percentage of Economically Disadvantaged Students</h2>
+			</div>
+
+			<div class='row colors'></div>
+			<div class='row labels'>
+				<div class='label'>0</div>
+				<div class='label'>20%</div>
+				<div class='label'>40%</div>
+				<div class='label'>60%</div>
+				<div class='label'>80%</div>
+				<div class='label'>100%</div>
+			</div> <!-- class='row labels' -->
+
+<!--create time slider-->
+			<div class='session' id='sliderbar'>
+				<h2>Year: <label id='active-year'></label></h2>
+				<input id='slider' class='row' type='range' min='1997' max='2018' step='1' value='1997' onmouseup="moveYearSlider('slider', 'active-year', 0);"/>
+			</div>
+			<div id='slidercontrols'>
+				<span id='slider_back' onclick="moveYearSlider('slider', 'active-year', -1);" title='Go back one year'><img src="img/skip_backward.svg"></span>
+				<span id='slider_play' onclick="startYearAnimation('slider', 'active-year', 1000, 'slider_play', 'slider_stop');" title='Animate timeline'><img src="img/play.svg"></span>
+				<span id='slider_stop' onclick="stopYearAnimation('slider_play', 'slider_stop');" title='Stop animation'><img src="img/stop.svg"></span>
+				<span id='slider_forward' onclick="moveYearSlider('slider', 'active-year', 1);" title='Go forward one year'><img src="img/skip_forward.svg"></span>
+
+				</div> <!-- id='slidercontrols' -->
+
+			</div> <!-- id='console' -->	
+	
 <!--BEGIN 'ZOOM TO DISTRICT'-->
 		<div id="mySidenav" class="sidenav">
 			<p class="moreinfo">
@@ -48,62 +89,22 @@
 
 <!--END 'ZOOM TO CHARTER'-->
 
-<!--BEGIN 'INSTRUCTIONS'-->
-
-			<!--	
-			<button type="button" class="collapsible">Map Instructions</button>
-			<div class="instructions">-->
-				<p class="instructionstitle">Map Instructions
-				<p class="instructionstext">Use the play, forward, and backward buttons below to animate the map through time. Click any point on the map to learn more about a campus. Click 'Show history chart' on the bottom of the map to see trends over time in a school district or charter holder. Within the chart, use the Left and Right drop-down menus to change the data shown on the left and right Y axes.</p>
-			</div>	
+				<p class="mapcredits">
+				Data: <a href='https://raiseyourhandtexas.org'>Raise Your Hand Texas</a>
+				<br />
+				Map produced by <a href="http://www.coregis.net/" target="_blank">CoreGIS</a>.
+				<br />
+				<a href="https://www.raiseyourhandtexas.org/contact/" target="_blank">Contact</a>
+				</p>
 			
+
+			</div>	
 			
 </div> <!-- id="mySidenav" -->
 
 <!-- Mapbox will draw the map into this div -->
 		<div id='map'></div>
 
-<!-- div for the legend and date controls -->
-		<div id='console'>
-			<h1>Charter Campuses in Texas</h1>
-
-			<!--create legend-->
-			<div class='session'>
-				<h2>Percentage of Economically Disadvantaged Students</h2>
-			</div>
-
-			<div class='row colors'></div>
-			<div class='row labels'>
-				<div class='label'>0</div>
-				<div class='label'>20%</div>
-				<div class='label'>40%</div>
-				<div class='label'>60%</div>
-				<div class='label'>80%</div>
-				<div class='label'>100%</div>
-			</div> <!-- class='row labels' -->
-
-<!--create time slider-->
-			<div class='session' id='sliderbar'>
-				<h2>Year: <label id='active-year'></label></h2>
-				<input id='slider' class='row' type='range' min='1997' max='2018' step='1' value='1997' onmouseup="moveYearSlider('slider', 'active-year', 0);"/>
-			</div>
-			<div id='slidercontrols'>
-				<span id='slider_back' onclick="moveYearSlider('slider', 'active-year', -1);" title='Go back one year'><img src="img/skip_backward.svg"></span>
-				<span id='slider_play' onclick="startYearAnimation('slider', 'active-year', 1000, 'slider_play', 'slider_stop');" title='Animate timeline'><img src="img/play.svg"></span>
-				<span id='slider_stop' onclick="stopYearAnimation('slider_play', 'slider_stop');" title='Stop animation'><img src="img/stop.svg"></span>
-				<span id='slider_forward' onclick="moveYearSlider('slider', 'active-year', 1);" title='Go forward one year'><img src="img/skip_forward.svg"></span>
-
-				<p class="mapcredits">
-					Data: <a href='https://raiseyourhandtexas.org'>Raise Your Hand Texas</a>
-					<br /><br />
-					Map produced by <a href="http://www.coregis.net/" target="_blank">CoreGIS</a>.
-					<br /><br />
-					<a href="https://www.raiseyourhandtexas.org/contact/" target="_blank">Contact</a>
-				</p>
-
-				</div> <!-- id='slidercontrols' -->
-
-			</div> <!-- id='console' -->
 
 <!-- containers for chart controls -->
 		<div id='chart-controls'>
