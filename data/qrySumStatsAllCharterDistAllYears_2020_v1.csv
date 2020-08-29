@@ -18,7 +18,7 @@ A W Brown Leadership Academy,2015,2,2152,167.4,13,13,120
 A W Brown Leadership Academy,2016,2,2161,163.9,20,20,108
 A W Brown Leadership Academy,2017,2,2278,153.6,30,31,110
 A W Brown Leadership Academy,2018,2,2144,176.7,23,24,90
-A W Brown Leadership Academy,2019,2,1725,0,-1998,0,91
+A W Brown Leadership Academy,2019,2,1725,0,0,0,91
 A+ Academy,2001,1,82,8.5,0,0,0
 A+ Academy,2002,1,154,53.2,26,32,14
 A+ Academy,2003,1,147,87.8,42,40,17
@@ -37,7 +37,7 @@ A+ Academy,2015,1,974,93.8,367,363,109
 A+ Academy,2016,1,940,90.9,371,368,106
 A+ Academy,2017,1,1068,93.1,492,489,104
 A+ Academy,2018,2,1348,165.8,646,639,110
-A+ Academy,2019,2,1399,0,-1998,161,133
+A+ Academy,2019,2,1399,0,0,161,133
 A+ Unlimited Potential,2017,2,94,101.9,0,0,4
 A+ Unlimited Potential,2018,2,155,88.6,6,4,17
 A+ Unlimited Potential,2019,1,136,0,16,0,27
@@ -60,7 +60,7 @@ Academy For Academic Excellence,2015,5,506,500,65,61,108
 Academy For Academic Excellence,2016,5,486,500,71,65,97
 Academy For Academic Excellence,2017,5,472,500,80,77,103
 Academy For Academic Excellence,2018,5,521,500,111,107,126
-Academy For Academic Excellence,2019,4,493,0,-1923,0,-1899
+Academy For Academic Excellence,2019,4,493,0,75,0,99
 Academy of Accelerated Learning Inc,2002,1,514,60.3,88,0,0
 Academy of Accelerated Learning Inc,2003,1,568,80.1,120,111,0
 Academy of Accelerated Learning Inc,2004,1,595,41.2,71,71,0
@@ -147,7 +147,7 @@ Accelerated Intermediate Academy,2015,1,254,95.7,98,97,19
 Accelerated Intermediate Academy,2016,1,281,96.8,110,109,19
 Accelerated Intermediate Academy,2017,3,283,284,101,101,13
 Accelerated Intermediate Academy,2018,2,269,195.8,84,84,7
-Accelerated Intermediate Academy,2019,1,249,0,85,0,-999
+Accelerated Intermediate Academy,2019,1,249,0,85,0,0
 Advantage Academy,1999,1,80,63.8,0,0,15
 Advantage Academy,2000,1,104,29.8,0,0,24
 Advantage Academy,2001,1,410,49.3,5,0,26
@@ -189,7 +189,7 @@ Alief Montessori Community School,2015,1,296,59.5,221,220,14
 Alief Montessori Community School,2016,1,294,59.9,193,193,15
 Alief Montessori Community School,2017,1,271,39.1,211,211,17
 Alief Montessori Community School,2018,1,285,29.5,231,231,21
-Alief Montessori Community School,2019,1,347,0,273,0,-999
+Alief Montessori Community School,2019,1,347,0,273,0,0
 Alpha Charter School,2002,1,144,38.2,0,0,20
 Alpha Charter School,2003,1,131,63.4,0,0,15
 Alpha Charter School,2004,1,200,38,0,0,23
@@ -296,7 +296,7 @@ Aristoi Classical Academy,2015,2,539,37.3,31,27,30
 Aristoi Classical Academy,2016,2,644,31.9,27,27,35
 Aristoi Classical Academy,2017,2,779,33.2,23,23,43
 Aristoi Classical Academy,2018,2,856,48,30,30,61
-Aristoi Classical Academy,2019,2,956,0,-1998,0,96
+Aristoi Classical Academy,2019,2,956,0,0,0,96
 Arlington Classics Academy,2000,1,311,0,0,1,8
 Arlington Classics Academy,2001,1,272,5.5,0,0,14
 Arlington Classics Academy,2002,1,246,4.1,0,0,15
@@ -324,7 +324,7 @@ Arrow Academy,2015,7,844,517.9,220,215,31
 Arrow Academy,2016,5,547,378.9,57,56,25
 Arrow Academy,2017,4,491,316.9,47,47,34
 Arrow Academy,2018,4,621,363.4,79,75,40
-Arrow Academy,2019,4,784,0,49,0,-1950
+Arrow Academy,2019,4,784,0,49,0,48
 Austin Achieve Public Schools,2013,1,118,94.1,43,43,9
 Austin Achieve Public Schools,2014,1,278,30.2,139,139,19
 Austin Achieve Public Schools,2015,1,411,93.4,180,178,52
@@ -475,7 +475,7 @@ Bob Hope School,2015,1,447,89.3,77,41,22
 Bob Hope School,2016,1,516,87.4,108,66,25
 Bob Hope School,2017,2,850,183.9,336,332,35
 Bob Hope School,2018,2,976,181,451,439,43
-Bob Hope School,2019,3,1943,0,0,0,-1953
+Bob Hope School,2019,3,1943,0,0,0,45
 Brazos River Charter School,2001,1,57,54.4,0,0,0
 Brazos River Charter School,2002,1,81,50.6,0,0,9
 Brazos River Charter School,2003,1,114,52.6,0,0,26
@@ -515,7 +515,7 @@ Brazos School For Inquiry & Creatitivity,2016,3,417,285.2,97,92,34
 Brazos School For Inquiry & Creatitivity,2017,3,387,278.7,69,65,39
 Brazos School For Inquiry & Creatitivity,2018,3,394,285.1,95,92,25
 Brazos School For Inquiry & Creatitivity,2019,2,375,0,130,0,36
-Bridgeway Preparatory Academy,2019,1,81,0,-999,0,14
+Bridgeway Preparatory Academy,2019,1,81,0,0,0,14
 Bright Ideas Charter,1999,1,67,4.5,0,0,0
 Bright Ideas Charter,2000,1,67,0,0,0,0
 Bright Ideas Charter,2001,1,69,50.7,0,0,0
@@ -545,8 +545,8 @@ Brooks Academy Of Science And Engineering,2015,3,1776,205.3,125,112,72
 Brooks Academy Of Science And Engineering,2016,3,1785,192.8,152,139,78
 Brooks Academy Of Science And Engineering,2017,4,1961,221,132,128,107
 Brooks Academy Of Science And Engineering,2018,4,2898,273.4,199,195,165
-Brooks Academy Of Science And Engineering,2019,4,3306,0,-1814,0,-1597
-Burnham Wood Charter School Distri,2019,1,154,0,0,93,-999
+Brooks Academy Of Science And Engineering,2019,4,3306,0,184,0,401
+Burnham Wood Charter School Distri,2019,1,154,0,0,93,0
 Burnham Wood Charter School District,1999,1,92,23.9,0,0,5
 Burnham Wood Charter School District,2000,1,115,33.9,0,0,4
 Burnham Wood Charter School District,2001,1,169,28.4,3,0,10
@@ -567,7 +567,7 @@ Burnham Wood Charter School District,2015,2,968,102,222,197,39
 Burnham Wood Charter School District,2016,2,1031,104,269,236,46
 Burnham Wood Charter School District,2017,2,963,82.2,273,237,52
 Burnham Wood Charter School District,2018,2,830,68.6,247,205,44
-Burnham Wood Charter School District,2019,2,925,0,-1998,135,-968
+Burnham Wood Charter School District,2019,2,925,0,0,135,31
 C O R E Academy,2014,1,74,94.6,0,0,10
 C O R E Academy,2015,1,343,88.3,3,3,40
 C O R E Academy,2016,1,509,88.6,3,3,44
@@ -591,7 +591,7 @@ Calvin Nelms Charter Schools,2015,2,303,55.9,5,5,23
 Calvin Nelms Charter Schools,2016,2,307,77.2,7,7,21
 Calvin Nelms Charter Schools,2017,2,319,89,10,8,18
 Calvin Nelms Charter Schools,2018,2,311,92.1,10,10,20
-Calvin Nelms Charter Schools,2019,2,314,0,-1998,0,-1998
+Calvin Nelms Charter Schools,2019,2,314,0,0,0,0
 Career Plus Learning Academy,2000,1,23,87,1,1,8
 Career Plus Learning Academy,2001,1,15,80,0,0,3
 Career Plus Learning Academy,2002,1,29,100,0,0,9
@@ -640,7 +640,7 @@ Chaparral Star Academy,2015,1,358,0,0,0,9
 Chaparral Star Academy,2016,1,357,0,11,10,16
 Chaparral Star Academy,2017,1,378,0,21,21,13
 Chaparral Star Academy,2018,1,381,0,22,18,10
-Chaparral Star Academy,2019,1,376,0,32,0,-999
+Chaparral Star Academy,2019,1,376,0,32,0,0
 Chapel Hill Academy,2009,1,127,55.9,3,3,8
 Chapel Hill Academy,2010,1,268,66,6,6,13
 Chapel Hill Academy,2011,1,344,61.9,11,11,15
@@ -686,7 +686,7 @@ Cityscape Schools,2015,1,392,95.9,209,195,12
 Cityscape Schools,2016,1,520,95.8,250,238,29
 Cityscape Schools,2017,1,620,94,334,325,26
 Cityscape Schools,2018,1,740,89.5,394,338,41
-Cityscape Schools,2019,2,1152,0,-999,323,-1998
+Cityscape Schools,2019,2,1152,0,0,323,0
 Coastal Bend Youth City,1999,1,40,100,0,0,40
 Coastal Bend Youth City,2000,1,46,97.8,0,0,30
 Coastal Bend Youth City,2001,1,48,100,2,1,26
@@ -701,9 +701,9 @@ Compass Academy Charter School,2015,1,575,24.9,2,2,35
 Compass Academy Charter School,2016,1,673,21.2,0,0,45
 Compass Academy Charter School,2017,1,778,16.7,4,4,54
 Compass Academy Charter School,2018,1,1025,17.6,3,3,66
-Compass Academy Charter School,2019,1,1234,0,-999,0,106
+Compass Academy Charter School,2019,1,1234,0,0,0,106
 Compass Rose Academy,2018,1,90,78.9,12,10,10
-Compass Rose Academy,2019,1,369,0,-999,0,39
+Compass Rose Academy,2019,1,369,0,0,0,39
 Comquest Academy,2000,1,71,52.1,0,0,7
 Comquest Academy,2001,1,57,0,0,0,5
 Comquest Academy,2002,1,68,1.5,0,0,3
@@ -723,7 +723,7 @@ Comquest Academy,2015,1,60,65,3,3,2
 Comquest Academy,2016,1,83,66.3,6,6,5
 Comquest Academy,2017,1,83,67.5,15,12,3
 Comquest Academy,2018,1,75,68,23,17,4
-Comquest Academy,2019,1,55,0,11,-999,-999
+Comquest Academy,2019,1,55,0,11,0,0
 Corpus Christi Montessori School,2006,1,57,12.3,0,0,3
 Corpus Christi Montessori School,2007,1,83,6,1,1,7
 Corpus Christi Montessori School,2008,1,115,5.2,0,0,13
@@ -737,7 +737,7 @@ Corpus Christi Montessori School,2015,1,163,22.7,7,6,8
 Corpus Christi Montessori School,2016,1,168,19.6,5,5,16
 Corpus Christi Montessori School,2017,1,168,18.5,4,4,12
 Corpus Christi Montessori School,2018,1,145,17.2,4,4,12
-Corpus Christi Montessori School,2019,1,140,0,-999,0,19
+Corpus Christi Montessori School,2019,1,140,0,0,0,19
 crossroads Community Ed Ctr Charter,2001,1,62,82.3,0,0,0
 crossroads Community Ed Ctr Charter,2002,1,119,52.1,0,0,0
 crossroads Community Ed Ctr Charter,2003,1,148,67.6,0,0,15
@@ -756,7 +756,7 @@ Crosstimbers Academy,2015,1,90,45.6,0,0,7
 Crosstimbers Academy,2016,1,98,48,0,0,9
 Crosstimbers Academy,2017,1,86,54.7,0,0,8
 Crosstimbers Academy,2018,1,109,54.1,0,0,10
-Crosstimbers Academy,2019,1,143,0,-999,0,12
+Crosstimbers Academy,2019,1,143,0,0,0,12
 Cumberland Academy,1999,1,82,11,0,0,25
 Cumberland Academy,2000,1,84,14.3,0,0,37
 Cumberland Academy,2001,1,118,5.9,0,0,48
@@ -777,7 +777,7 @@ Cumberland Academy,2015,2,1030,77.2,71,58,63
 Cumberland Academy,2016,3,1161,113.4,90,83,67
 Cumberland Academy,2017,3,1466,97.9,114,90,106
 Cumberland Academy,2018,4,1774,121.9,158,126,128
-Cumberland Academy,2019,4,1988,0,127,0,-1879
+Cumberland Academy,2019,4,1988,0,127,0,119
 Dr M L Garza-Gonzalez Charter School,1997,1,148,99.3,0,0,0
 Dr M L Garza-Gonzalez Charter School,1998,1,182,15.4,0,0,8
 Dr M L Garza-Gonzalez Charter School,1999,1,184,74.5,0,0,18
@@ -815,7 +815,7 @@ Draw Academy,2015,2,542,200,422,420,9
 Draw Academy,2016,3,698,294.2,508,505,11
 Draw Academy,2017,3,660,283,513,511,8
 Draw Academy,2018,3,653,292.5,572,568,12
-Draw Academy,2019,1,675,0,-999,-999,20
+Draw Academy,2019,1,675,0,0,0,20
 Eagle Academies of Texas,2000,14,686,0,0,0,0
 Eagle Academies of Texas,2001,14,1855,3.9,0,0,139
 Eagle Academies of Texas,2002,14,1943,447.8,296,296,247
@@ -835,7 +835,7 @@ Eagle Academies of Texas,2015,6,7911,245.2,174,174,692
 Eagle Academies of Texas,2016,6,4621,258.2,297,297,402
 Eagle Academies of Texas,2017,6,4860,265.3,328,318,472
 Eagle Academies of Texas,2018,5,3586,171,177,172,398
-Eagle Academies of Texas,2019,5,2270,0,-921,0,193
+Eagle Academies of Texas,2019,5,2270,0,78,0,193
 Eagle Project,2000,1,56,1.8,0,0,0
 Eagle Project,2001,1,121,0.8,0,0,13
 Eagle Project,2002,2,176,92.7,2,2,24
@@ -893,7 +893,7 @@ Education Center International,2015,6,879,303.5,165,158,88
 Education Center International,2016,5,761,304,134,125,73
 Education Center International,2017,6,810,352.6,134,129,87
 Education Center International,2018,6,1052,359.7,162,161,106
-Education Center International,2019,6,1279,0,-1761,0,119
+Education Center International,2019,6,1279,0,237,0,119
 Ehrhart School,2002,1,127,38.6,0,0,21
 Ehrhart School,2003,1,237,53.2,0,0,24
 Ehrhart School,2004,1,161,79.5,0,1,24
@@ -977,7 +977,7 @@ Erath Excels Academy,2015,2,193,153.5,8,8,25
 Erath Excels Academy,2016,2,159,162.5,7,7,15
 Erath Excels Academy,2017,2,136,176.7,11,10,14
 Erath Excels Academy,2018,2,115,163.9,9,9,15
-Erath Excels Academy,2019,2,114,0,-1998,0,-1998
+Erath Excels Academy,2019,2,114,0,0,0,0
 Etoile Academy Charter School,2019,1,144,0,0,0,11
 Evolution Academy Charter School,2003,1,238,37,2,2,23
 Evolution Academy Charter School,2004,1,274,26.3,6,6,42
@@ -995,7 +995,7 @@ Evolution Academy Charter School,2015,3,794,173.5,28,25,82
 Evolution Academy Charter School,2016,3,795,170.4,42,34,77
 Evolution Academy Charter School,2017,3,802,173.3,58,57,77
 Evolution Academy Charter School,2018,3,809,213.2,51,51,89
-Evolution Academy Charter School,2019,3,751,0,-1998,0,48
+Evolution Academy Charter School,2019,3,751,0,0,0,48
 Excel Academy,1999,1,596,100,25,24,80
 Excel Academy,2000,6,612,600,44,44,118
 Excel Academy,2001,6,665,600,54,54,99
@@ -1016,7 +1016,7 @@ Excel Academy,2015,4,476,400,41,41,71
 Excel Academy,2016,5,526,500,67,66,72
 Excel Academy,2017,5,565,500,63,58,97
 Excel Academy,2018,5,478,500,30,30,60
-Excel Academy,2019,4,317,0,-1985,0,59
+Excel Academy,2019,4,317,0,13,0,59
 Excellence In Leadership Academy,2013,1,59,89.8,40,39,3
 Excellence In Leadership Academy,2014,1,133,84.2,63,60,7
 Excellence In Leadership Academy,2015,1,185,85.9,130,130,11
@@ -1079,7 +1079,7 @@ Fort Worth Academy Of Fine Arts,2015,2,517,29.8,0,0,13
 Fort Worth Academy Of Fine Arts,2016,2,516,27.1,0,0,12
 Fort Worth Academy Of Fine Arts,2017,2,569,19.6,9,0,17
 Fort Worth Academy Of Fine Arts,2018,2,570,19.3,6,6,19
-Fort Worth Academy Of Fine Arts,2019,2,524,0,-1998,0,31
+Fort Worth Academy Of Fine Arts,2019,2,524,0,0,0,31
 Fort Worth Can Academy,2001,1,201,61.2,0,0,7
 Fort Worth Can Academy,2002,2,356,143.4,0,0,29
 Fort Worth Can Academy,2003,2,503,161.7,64,50,43
@@ -1155,7 +1155,7 @@ Gateway Charter Academy,2015,2,729,147.1,3,4,68
 Gateway Charter Academy,2016,2,747,136.2,3,3,70
 Gateway Charter Academy,2017,2,618,100.1,1,1,50
 Gateway Charter Academy,2018,2,753,200,2,0,39
-Gateway Charter Academy,2019,2,833,0,-999,0,-1998
+Gateway Charter Academy,2019,2,833,0,0,0,0
 General Alfred A Valenzuela Int,2007,1,29,89.7,5,5,1
 George Gervin Academy,1997,1,106,25.5,0,0,0
 George Gervin Academy,1998,1,189,24.9,0,0,6
@@ -1179,7 +1179,7 @@ George Gervin Academy,2015,2,1122,197.1,148,160,55
 George Gervin Academy,2016,2,1304,198.4,295,299,54
 George Gervin Academy,2017,2,1355,190,269,275,68
 George Gervin Academy,2018,2,1357,200,252,271,86
-George Gervin Academy,2019,2,977,0,-1998,-1998,84
+George Gervin Academy,2019,2,977,0,0,0,84
 George I Sanchez Charter,1997,1,360,67.8,0,0,0
 George I Sanchez Charter,1998,2,398,92.3,0,0,0
 George I Sanchez Charter,1999,3,487,119.2,0,0,2
@@ -1242,14 +1242,14 @@ Golden Rule Charter School,2015,5,1531,480.6,895,856,56
 Golden Rule Charter School,2016,5,1526,480.4,899,880,59
 Golden Rule Charter School,2017,5,1476,479.5,933,926,91
 Golden Rule Charter School,2018,6,1441,589.5,861,857,75
-Golden Rule Charter School,2019,6,1570,0,-1753,-1627,-2924
+Golden Rule Charter School,2019,6,1570,0,245,371,73
 Goodwater Montessori School,2018,1,303,18.2,8,8,20
 Goodwater Montessori School,2019,1,398,0,28,0,41
 Great Hearts Texas,2015,2,572,32.8,13,11,20
 Great Hearts Texas,2016,4,2009,63.6,109,90,66
 Great Hearts Texas,2017,4,2312,49.3,120,105,104
 Great Hearts Texas,2018,4,2766,65.3,139,115,140
-Great Hearts Texas,2019,7,4850,0,305,-999,322
+Great Hearts Texas,2019,7,4850,0,305,0,322
 Guardian Angel Performance Arts Academy,2000,1,54,74.1,0,0,21
 Guardian Angel Performance Arts Academy,2001,1,54,74.1,0,0,16
 Guardian Angel Performance Arts Academy,2002,1,56,80.4,0,0,15
@@ -1320,7 +1320,7 @@ Heritage Academy,2015,5,579,352,133,130,36
 Heritage Academy,2016,4,501,336.4,152,152,26
 Heritage Academy,2017,4,467,334.8,145,144,27
 Heritage Academy,2018,4,508,295.4,148,152,42
-Heritage Academy,2019,5,661,0,-1736,0,-3971
+Heritage Academy,2019,5,661,0,262,0,25
 Higgs Carter King Gifted & Talented,1999,1,302,66.2,11,8,7
 Higgs Carter King Gifted & Talented,2000,1,175,85.7,4,2,4
 Higgs Carter King Gifted & Talented,2001,1,194,90.2,0,0,19
@@ -1377,7 +1377,7 @@ Horizon Montessori Public Schools,2015,3,1125,204.8,427,391,59
 Horizon Montessori Public Schools,2016,3,1304,228,499,464,65
 Horizon Montessori Public Schools,2017,3,1350,203,537,491,70
 Horizon Montessori Public Schools,2018,3,1236,227.2,495,456,49
-Horizon Montessori Public Schools,2019,4,1160,0,-1998,-1888,48
+Horizon Montessori Public Schools,2019,4,1160,0,0,110,48
 Houston Alternative Preparatory Charter,2003,1,191,100,0,0,53
 Houston Alternative Preparatory Charter,2004,1,163,89.6,0,2,51
 Houston Alternative Preparatory Charter,2005,1,135,94.1,0,1,40
@@ -1478,7 +1478,7 @@ Idea Public Schools,2015,36,19227,3055.6,6351,6226,901
 Idea Public Schools,2016,44,23525,3921.5,8216,8092,1107
 Idea Public Schools,2017,51,29334,4483.9,9993,9871,1405
 Idea Public Schools,2018,61,35595,5319.2,11709,11428,1844
-Idea Public Schools,2019,91,49480,0,-19369,-20438,-2849
+Idea Public Schools,2019,91,49480,0,611,541,3145
 Ignite Public Schools And Community Serv Ctrs,1997,1,93,74.2,0,0,0
 Ignite Public Schools And Community Serv Ctrs,1998,1,167,8.4,0,0,8
 Ignite Public Schools And Community Serv Ctrs,1999,1,243,33.7,0,0,0
@@ -1532,7 +1532,7 @@ Inspire Academies,2015,7,773,600,31,27,270
 Inspire Academies,2016,8,799,705.9,18,13,202
 Inspire Academies,2017,8,835,720.1,30,19,198
 Inspire Academies,2018,9,867,800.4,11,8,183
-Inspire Academies,2019,8,840,0,-3996,0,-1778
+Inspire Academies,2019,8,840,0,0,0,220
 Inspired Vision Academy,2001,1,126,7.9,0,0,0
 Inspired Vision Academy,2002,2,264,171.9,29,15,13
 Inspired Vision Academy,2003,2,449,112.1,106,95,24
@@ -1557,7 +1557,7 @@ International Leadership Of Texas,2015,8,4633,362.7,711,711,242
 International Leadership Of Texas,2016,9,5030,390.8,1077,1075,266
 International Leadership Of Texas,2017,17,10239,881.6,2397,2397,442
 International Leadership Of Texas,2018,26,16131,1604.1,4247,4257,774
-International Leadership Of Texas,2019,32,19359,0,-1560,-610,-852
+International Leadership Of Texas,2019,32,19359,0,438,1388,1146
 Jamie's House Charter School,2000,1,45,100,0,0,35
 Jamie's House Charter School,2001,1,44,97.7,0,0,30
 Jamie's House Charter School,2002,1,61,91.8,0,0,31
@@ -1631,7 +1631,7 @@ Jubilee Academies,2015,8,4251,578.8,747,652,265
 Jubilee Academies,2016,8,4598,573.9,839,764,301
 Jubilee Academies,2017,9,4731,615.2,924,843,322
 Jubilee Academies,2018,10,5650,655.3,1080,978,372
-Jubilee Academies,2019,13,6542,0,-2547,-1632,-2510
+Jubilee Academies,2019,13,6542,0,450,366,487
 Katherine Anne Porter School,2000,1,61,26.2,0,0,12
 Katherine Anne Porter School,2001,1,114,14,0,0,18
 Katherine Anne Porter School,2002,2,201,45.4,0,0,40
@@ -1660,28 +1660,28 @@ Kenny Dorham School For The Perfor,2002,1,40,52.5,0,0,4
 Ki Charter Academy,2016,1,173,100,0,0,88
 Ki Charter Academy,2017,1,174,100,1,0,99
 Ki Charter Academy,2018,1,174,97.7,4,2,96
-Ki Charter Academy,2019,1,183,0,-999,0,116
-Kipp Texas Public Schools,1999,1,293,91.1,0,0,0
-Kipp Texas Public Schools,2000,1,290,91.7,49,32,6
-Kipp Texas Public Schools,2001,1,316,91.1,32,44,10
-Kipp Texas Public Schools,2002,1,338,89.6,29,18,12
-Kipp Texas Public Schools,2003,2,397,168.1,0,33,24
-Kipp Texas Public Schools,2004,4,589,324.9,74,79,47
-Kipp Texas Public Schools,2005,4,892,333.9,181,170,64
-Kipp Texas Public Schools,2006,5,1682,425.6,312,288,111
-Kipp Texas Public Schools,2007,9,2371,744.2,492,473,127
-Kipp Texas Public Schools,2008,13,3273,1096.1,773,744,180
-Kipp Texas Public Schools,2009,18,4484,1582.6,1163,1156,223
-Kipp Texas Public Schools,2010,22,6055,1855.4,1626,1616,288
-Kipp Texas Public Schools,2011,27,8014,2371,2397,2364,358
-Kipp Texas Public Schools,2012,29,9945,2572.5,3136,3102,457
-Kipp Texas Public Schools,2013,32,12220,2695.3,3868,3857,585
-Kipp Texas Public Schools,2014,36,15029,3221.3,4925,5005,778
-Kipp Texas Public Schools,2015,39,17773,3478.1,6375,6624,1038
-Kipp Texas Public Schools,2016,41,20554,3689.7,7559,7969,1307
-Kipp Texas Public Schools,2017,46,23279,4110.3,8370,8883,1541
-Kipp Texas Public Schools,2018,49,25154,4299.7,9182,9664,1798
-Kipp Texas Public Schools,2019,53,28277,0,-2797,-999,-691
+Ki Charter Academy,2019,1,183,0,0,0,116
+KIPP Public Charter Schools,1999,1,293,91.1,0,0,0
+KIPP Public Charter Schools,2000,1,290,91.7,49,32,6
+KIPP Public Charter Schools,2001,1,316,91.1,32,44,10
+KIPP Public Charter Schools,2002,1,338,89.6,29,18,12
+KIPP Public Charter Schools,2003,2,397,168.1,0,33,24
+KIPP Public Charter Schools,2004,4,589,324.9,74,79,47
+KIPP Public Charter Schools,2005,4,892,333.9,181,170,64
+KIPP Public Charter Schools,2006,5,1682,425.6,312,288,111
+KIPP Public Charter Schools,2007,9,2371,744.2,492,473,127
+KIPP Public Charter Schools,2008,13,3273,1096.1,773,744,180
+KIPP Public Charter Schools,2009,18,4484,1582.6,1163,1156,223
+KIPP Public Charter Schools,2010,22,6055,1855.4,1626,1616,288
+KIPP Public Charter Schools,2011,27,8014,2371,2397,2364,358
+KIPP Public Charter Schools,2012,29,9945,2572.5,3136,3102,457
+KIPP Public Charter Schools,2013,32,12220,2695.3,3868,3857,585
+KIPP Public Charter Schools,2014,36,15029,3221.3,4925,5005,778
+KIPP Public Charter Schools,2015,39,17773,3478.1,6375,6624,1038
+KIPP Public Charter Schools,2016,41,20554,3689.7,7559,7969,1307
+KIPP Public Charter Schools,2017,46,23279,4110.3,8370,8883,1541
+KIPP Public Charter Schools,2018,49,25154,4299.7,9182,9664,1798
+Kipp Texas Public Schools,2019,53,28277,0,200,0,2306
 Koinonia Community Learning Academy,2011,1,43,100,0,0,0
 Koinonia Community Learning Academy,2012,1,208,96.2,7,7,14
 Koinonia Community Learning Academy,2013,1,176,98.3,5,1,10
@@ -1739,7 +1739,7 @@ La Fe Preparatory School,2015,1,251,94.4,184,246,25
 La Fe Preparatory School,2016,1,262,94.3,193,236,15
 La Fe Preparatory School,2017,1,259,95.8,198,234,7
 La Fe Preparatory School,2018,1,249,96.8,190,217,6
-La Fe Preparatory School,2019,1,217,0,14,201,-999
+La Fe Preparatory School,2019,1,217,0,14,201,0
 Lake Granbury Academy Charter Scho,2019,1,87,0,0,0,16
 Leadership Prep School,2012,1,250,8,23,22,2
 Leadership Prep School,2013,1,350,4.6,34,32,7
@@ -1755,8 +1755,8 @@ Legacy Preparatory,2015,3,1252,205,301,283,71
 Legacy Preparatory,2016,3,1187,197.4,339,317,74
 Legacy Preparatory,2017,3,1362,188,451,432,96
 Legacy Preparatory,2018,2,1393,114.4,490,476,105
-Legacy Preparatory,2019,2,1572,0,-1998,87,131
-Legacy School Of Sport Sciences,2019,1,433,0,-999,0,24
+Legacy Preparatory,2019,2,1572,0,0,87,131
+Legacy School Of Sport Sciences,2019,1,433,0,0,0,24
 Life School,1999,1,283,44.2,0,0,6
 Life School,2000,1,569,40.6,0,0,8
 Life School,2001,1,708,47.9,0,0,12
@@ -1777,7 +1777,7 @@ Life School,2015,5,5026,292.2,484,479,320
 Life School,2016,7,5364,381.8,533,525,374
 Life School,2017,7,5668,379.8,542,533,419
 Life School,2018,7,5662,413.3,507,500,489
-Life School,2019,8,5605,0,-1735,126,622
+Life School,2019,8,5605,0,263,126,622
 Lighthouse Charter School,2004,1,168,64.9,0,0,10
 Lighthouse Charter School,2005,1,176,61.9,0,0,19
 Lighthouse Charter School,2006,1,152,65.8,0,0,16
@@ -1869,7 +1869,7 @@ Meadowland Charter District,2015,1,100,91,0,0,46
 Meadowland Charter District,2016,1,101,87.1,0,0,37
 Meadowland Charter District,2017,1,86,87.2,0,0,36
 Meadowland Charter District,2018,2,137,187.3,0,0,71
-Meadowland Charter District,2019,2,90,0,0,0,-1998
+Meadowland Charter District,2019,2,90,0,0,0,0
 Medical Center Charter School,2000,1,83,66.3,9,8,0
 Medical Center Charter School,2001,1,223,39.5,15,2,3
 Medical Center Charter School,2002,1,255,35.7,27,25,10
@@ -1918,7 +1918,7 @@ Meyerpark Elementary,2015,1,224,91.5,0,0,11
 Meyerpark Elementary,2016,1,249,93.2,0,0,14
 Meyerpark Elementary,2017,1,243,94.2,0,0,15
 Meyerpark Elementary,2018,1,245,93.1,0,0,14
-Meyerpark Elementary,2019,1,265,0,0,-999,16
+Meyerpark Elementary,2019,1,265,0,0,0,16
 Midland Academy Charter School,2000,1,586,44.7,0,0,0
 Midland Academy Charter School,2001,1,702,65.1,0,0,42
 Midland Academy Charter School,2002,1,549,63.9,50,49,38
@@ -1992,7 +1992,7 @@ New Frontiers Public Schools Inc,2015,3,675,242.3,76,73,55
 New Frontiers Public Schools Inc,2016,3,707,247.6,79,77,51
 New Frontiers Public Schools Inc,2017,3,742,250,78,77,45
 New Frontiers Public Schools Inc,2018,2,706,161.5,64,63,46
-New Frontiers Public Schools Inc,2019,2,601,0,70,-999,-1998
+New Frontiers Public Schools Inc,2019,2,601,0,70,0,0
 Newman International Academy,2012,1,330,8.5,5,0,16
 Newman International Academy,2013,1,475,54.9,13,9,26
 Newman International Academy,2014,1,719,47,44,40,45
@@ -2053,7 +2053,7 @@ Nova Academy,2015,3,944,278.1,340,331,47
 Nova Academy,2016,3,963,274.5,328,317,52
 Nova Academy,2017,3,893,267.2,302,288,45
 Nova Academy,2018,3,725,258.9,239,229,32
-Nova Academy,2019,3,794,0,36,0,-2997
+Nova Academy,2019,3,794,0,36,0,0
 Nyos Charter School,1999,1,129,3.1,0,0,10
 Nyos Charter School,2000,1,135,7.4,0,0,15
 Nyos Charter School,2001,1,152,4.6,0,0,15
@@ -2111,7 +2111,7 @@ Orenda Charter School,2015,5,1321,347.1,14,10,147
 Orenda Charter School,2016,3,1381,122.3,16,10,120
 Orenda Charter School,2017,5,1463,153.8,15,9,120
 Orenda Charter School,2018,5,1659,208.8,18,12,150
-Orenda Charter School,2019,5,1829,0,-1998,0,-1829
+Orenda Charter School,2019,5,1829,0,0,0,169
 Outreach Academy,2003,1,63,57.1,0,0,6
 Outreach Academy,2004,1,145,57.9,0,0,19
 Outreach Academy,2005,1,184,72.8,0,0,13
@@ -2139,7 +2139,7 @@ Panola Charter School,2015,3,154,115.5,0,0,16
 Panola Charter School,2016,3,147,128.9,0,0,10
 Panola Charter School,2017,3,118,112.8,0,0,6
 Panola Charter School,2018,3,147,145.3,0,0,3
-Panola Charter School,2019,3,158,0,0,0,-2997
+Panola Charter School,2019,3,158,0,0,0,0
 Paso del Norte Academy Charter District,2000,1,148,34.5,8,0,6
 Paso del Norte Academy Charter District,2001,1,197,52.8,22,2,14
 Paso del Norte Academy Charter District,2002,1,222,51.8,11,9,11
@@ -2159,7 +2159,7 @@ Paso del Norte Academy Charter District,2015,2,273,188.7,0,0,7
 Paso del Norte Academy Charter District,2016,2,241,193.7,36,36,16
 Paso del Norte Academy Charter District,2017,2,240,187.6,39,38,21
 Paso del Norte Academy Charter District,2018,2,217,186.2,50,48,14
-Paso del Norte Academy Charter District,2019,2,194,0,0,0,-1998
+Paso del Norte Academy Charter District,2019,2,194,0,0,0,0
 Peak Preparatory School,2008,2,389,138.7,51,0,8
 Pegasus School Of Liberal Arts And Sciences,1998,1,106,0,0,0,0
 Pegasus School Of Liberal Arts And Sciences,1999,1,166,18.7,0,0,1
@@ -2216,10 +2216,10 @@ Pineywoods Community Academy,2015,2,811,96.2,41,41,49
 Pineywoods Community Academy,2016,2,966,89.7,51,50,58
 Pineywoods Community Academy,2017,3,1037,130.6,58,58,69
 Pineywoods Community Academy,2018,3,1020,144.6,55,55,82
-Pineywoods Community Academy,2019,3,1041,0,-1968,0,95
+Pineywoods Community Academy,2019,3,1041,0,30,0,95
 Pioneer Technology & Arts Academy,2017,2,77,101.4,14,14,5
 Pioneer Technology & Arts Academy,2018,2,289,114.9,59,58,19
-Pioneer Technology & Arts Academy,2019,5,1248,0,-2771,0,-1945
+Pioneer Technology & Arts Academy,2019,5,1248,0,226,0,53
 Por Vida Academy,1997,1,153,79.7,0,0,0
 Por Vida Academy,1998,1,152,80.9,0,0,0
 Por Vida Academy,1999,1,146,80.8,0,0,6
@@ -2242,7 +2242,7 @@ Por Vida Academy,2015,3,352,202,1,1,35
 Por Vida Academy,2016,3,322,225.3,0,0,40
 Por Vida Academy,2017,3,262,231.9,1,0,31
 Por Vida Academy,2018,3,269,245.1,0,0,32
-Por Vida Academy,2019,3,223,0,-999,0,-1975
+Por Vida Academy,2019,3,223,0,0,0,23
 Positive Solutions Charter School,1999,1,25,76,0,0,0
 Positive Solutions Charter School,2000,1,156,25.6,0,0,11
 Positive Solutions Charter School,2001,1,204,38.2,0,0,6
@@ -2263,7 +2263,7 @@ Positive Solutions Charter School,2015,1,172,93,17,15,18
 Positive Solutions Charter School,2016,1,163,90.2,7,6,19
 Positive Solutions Charter School,2017,1,152,92.8,5,5,11
 Positive Solutions Charter School,2018,1,125,92,8,8,8
-Positive Solutions Charter School,2019,1,154,0,-999,0,21
+Positive Solutions Charter School,2019,1,154,0,0,0,21
 Premier High Schools,2001,1,50,80,0,0,9
 Premier High Schools,2002,1,56,64.3,2,2,5
 Premier High Schools,2003,1,59,52.5,13,14,11
@@ -2282,7 +2282,7 @@ Premier High Schools,2015,27,3591,1680,1022,1022,271
 Premier High Schools,2016,31,6435,1921.5,1126,1126,564
 Premier High Schools,2017,33,7022,2294.1,1262,1262,716
 Premier High Schools,2018,34,7227,2268.7,1122,1121,817
-Premier High Schools,2019,34,5365,0,-5440,0,-11315
+Premier High Schools,2019,34,5365,0,554,0,673
 Premier Learning Academy,2012,1,356,68.5,1,1,19
 Premier Learning Academy,2013,1,362,73.2,24,24,27
 Premier Learning Academy,2014,1,418,77.3,30,28,26
@@ -2313,7 +2313,7 @@ Priority Charter Schools,2015,5,914,246.4,11,11,88
 Priority Charter Schools,2016,5,1030,248.4,28,28,97
 Priority Charter Schools,2017,4,815,167.9,17,14,98
 Priority Charter Schools,2018,4,960,202.1,35,32,108
-Priority Charter Schools,2019,4,793,0,-2997,0,104
+Priority Charter Schools,2019,4,793,0,0,0,104
 Promesa Public Schools,2010,1,88,90.9,41,41,6
 Promesa Public Schools,2011,1,179,89.4,62,85,20
 Promesa Public Schools,2012,1,308,90.3,85,85,34
@@ -2381,7 +2381,7 @@ Rapoport Academy,2015,4,783,255,17,15,45
 Rapoport Academy,2016,4,805,265.2,32,32,52
 Rapoport Academy,2017,3,818,197.1,48,48,55
 Rapoport Academy,2018,3,818,200.3,61,61,63
-Rapoport Academy,2019,3,829,0,-1998,0,100
+Rapoport Academy,2019,3,829,0,0,0,100
 Raul Yzaguirre School For Success,1999,1,432,62,0,0,0
 Raul Yzaguirre School For Success,2000,1,586,79.9,182,166,31
 Raul Yzaguirre School For Success,2001,1,621,74.7,205,37,47
@@ -2423,8 +2423,8 @@ Raven School,2015,1,72,100,6,6,12
 Raven School,2016,1,95,100,3,3,28
 Raven School,2017,1,89,100,3,3,18
 Raven School,2018,1,104,100,0,0,31
-Raven School,2019,1,43,0,-999,0,16
-Reve Preparatory Charter School,2019,1,66,0,17,0,-999
+Raven School,2019,1,43,0,0,0,16
+Reve Preparatory Charter School,2019,1,66,0,17,0,0
 Richard Milburn Academy Schools,2000,4,340,107.9,0,0,10
 Richard Milburn Academy Schools,2001,4,456,128.7,21,0,17
 Richard Milburn Academy Schools,2002,6,768,123.4,0,0,57
@@ -2444,7 +2444,7 @@ Richard Milburn Academy Schools,2015,8,1672,590.1,9,5,162
 Richard Milburn Academy Schools,2016,8,2020,518.6,24,14,219
 Richard Milburn Academy Schools,2017,10,2219,769.4,61,29,237
 Richard Milburn Academy Schools,2018,9,2223,692.5,112,105,240
-Richard Milburn Academy Schools,2019,9,1921,0,-3889,0,-1780
+Richard Milburn Academy Schools,2019,9,1921,0,107,0,218
 Richland Collegiate High School,2007,1,171,0,0,1,1
 Richland Collegiate High School,2008,1,324,4.3,1,1,0
 Richland Collegiate High School,2009,1,329,4.6,2,1,0
@@ -2457,7 +2457,7 @@ Richland Collegiate High School,2015,1,445,27.6,1,1,1
 Richland Collegiate High School,2016,1,511,19.6,0,0,3
 Richland Collegiate High School,2017,1,572,19.1,1,1,1
 Richland Collegiate High School,2018,1,581,21.3,0,0,2
-Richland Collegiate High School,2019,1,527,0,18,0,-999
+Richland Collegiate High School,2019,1,527,0,18,0,0
 Rise Academy,2000,1,30,93.3,0,0,1
 Rise Academy,2001,1,85,91.8,0,0,5
 Rise Academy,2002,1,100,92,0,0,6
@@ -2557,9 +2557,9 @@ School Of Excellence In Education,2015,7,1115,627.8,172,170,76
 School Of Excellence In Education,2016,5,1095,439.6,199,195,83
 School Of Excellence In Education,2017,4,830,364.5,166,164,51
 School Of Excellence In Education,2018,4,667,352.7,134,133,47
-School Of Excellence In Education,2019,4,473,0,-1998,24,-1974
+School Of Excellence In Education,2019,4,473,0,0,24,24
 School Of Science And Technology,2019,1,289,0,45,0,14
-School Of Science And Technology D,2019,3,1094,0,210,0,-1967
+School Of Science And Technology D,2019,3,1094,0,210,0,31
 Schools of Science and Technology,2006,1,226,40.7,1,1,11
 Schools of Science and Technology,2007,1,327,30.3,1,1,10
 Schools of Science and Technology,2008,1,405,31.4,1,1,14
@@ -2596,7 +2596,7 @@ Seashore Charter Schools,2015,2,470,2.9,4,4,30
 Seashore Charter Schools,2016,2,476,1.8,3,3,34
 Seashore Charter Schools,2017,2,489,2.2,8,8,36
 Seashore Charter Schools,2018,2,488,3.7,9,9,40
-Seashore Charter Schools,2019,2,496,0,-1998,0,40
+Seashore Charter Schools,2019,2,496,0,0,0,40
 Sentry Technology Prep School,2000,1,261,89.7,0,0,0
 Sentry Technology Prep School,2001,1,206,100,0,0,2
 Sentry Technology Prep School,2002,1,191,100,0,0,0
@@ -2661,7 +2661,7 @@ South Plains Academy Charter District,2015,1,204,92.6,0,0,37
 South Plains Academy Charter District,2016,1,200,88,2,2,21
 South Plains Academy Charter District,2017,1,202,90.1,4,4,23
 South Plains Academy Charter District,2018,1,198,92.4,2,2,24
-South Plains Academy Charter District,2019,1,208,0,-999,0,37
+South Plains Academy Charter District,2019,1,208,0,0,0,37
 Southwest Preparatory School,1999,1,57,89.5,0,0,7
 Southwest Preparatory School,2000,1,177,32.8,0,0,19
 Southwest Preparatory School,2001,1,231,26,0,0,29
@@ -2682,7 +2682,7 @@ Southwest Preparatory School,2015,5,898,396.3,114,58,100
 Southwest Preparatory School,2016,5,891,397.7,99,64,91
 Southwest Preparatory School,2017,6,908,457.4,109,72,92
 Southwest Preparatory School,2018,6,879,469.7,107,77,95
-Southwest Preparatory School,2019,6,970,0,-3946,0,-1971
+Southwest Preparatory School,2019,6,970,0,50,0,27
 Southwest Schools,2000,2,241,168.7,0,0,6
 Southwest Schools,2001,2,444,140,136,137,57
 Southwest Schools,2002,1,446,23.3,13,13,24
@@ -2702,7 +2702,7 @@ Southwest Schools,2015,6,1988,513.1,986,950,153
 Southwest Schools,2016,6,1853,549.4,990,957,168
 Southwest Schools,2017,6,1838,505.8,1054,1012,163
 Southwest Schools,2018,6,2025,524.3,1175,1106,161
-Southwest Schools,2019,6,2042,0,-1504,576,-1855
+Southwest Schools,2019,6,2042,0,494,576,143
 St Anthony School,2004,1,202,35.1,0,0,0
 St Anthony School,2005,1,205,35.6,0,0,14
 St Anthony School,2006,1,197,38.6,0,0,9
@@ -2736,7 +2736,7 @@ St Mary's Academy Charter School,2015,1,450,71.8,7,7,24
 St Mary's Academy Charter School,2016,1,442,79.2,11,11,26
 St Mary's Academy Charter School,2017,1,443,80.1,10,10,29
 St Mary's Academy Charter School,2018,1,457,85.3,5,5,32
-St Mary's Academy Charter School,2019,1,429,0,-999,0,37
+St Mary's Academy Charter School,2019,1,429,0,0,0,37
 Step Charter School,2007,1,87,100,20,20,6
 Step Charter School,2008,1,141,100,33,30,9
 Step Charter School,2009,1,172,100,56,52,18
@@ -2760,7 +2760,7 @@ Stephen F Austin State University,2015,1,250,7.6,3,2,8
 Stephen F Austin State University,2016,1,242,5.8,4,3,7
 Stephen F Austin State University,2017,1,255,8.6,6,5,16
 Stephen F Austin State University,2018,1,255,8.6,7,7,13
-Stephen F Austin State University,2019,1,254,0,-999,0,19
+Stephen F Austin State University,2019,1,254,0,0,0,19
 Tekoa Academy Of Accelerated Studies,2000,1,157,55.4,0,0,5
 Tekoa Academy Of Accelerated Studies,2001,1,117,76.9,0,0,10
 Tekoa Academy Of Accelerated Studies,2002,2,209,147.8,0,0,5
@@ -2780,7 +2780,7 @@ Tekoa Academy Of Accelerated Studies,2015,4,426,369.2,0,0,15
 Tekoa Academy Of Accelerated Studies,2016,4,492,371.5,0,0,17
 Tekoa Academy Of Accelerated Studies,2017,4,523,378.6,0,0,17
 Tekoa Academy Of Accelerated Studies,2018,4,408,221.9,0,0,15
-Tekoa Academy Of Accelerated Studies,2019,4,464,0,0,0,-3996
+Tekoa Academy Of Accelerated Studies,2019,4,464,0,0,0,0
 Texans Can Academies,1997,1,221,0,31,0,4
 Texans Can Academies,1998,1,565,59.5,2,0,14
 Texans Can Academies,1999,2,752,62.4,0,0,40
@@ -2812,7 +2812,7 @@ Texas Academy Of Excellence,2001,1,229,65.1,0,0,4
 Texas Academy Of Excellence,2002,1,286,61.9,0,0,9
 Texas Academy Of Excellence,2003,1,320,58.4,0,0,14
 Texas Academy Of Excellence,2004,1,377,61.5,2,1,25
-Texas College Preparatory Academie,2019,4,1160,0,13,0,-932
+Texas College Preparatory Academie,2019,4,1160,0,13,0,67
 Texas College Preparatory Academies,2009,8,724,414.1,171,171,31
 Texas College Preparatory Academies,2010,13,1633,640.9,215,215,95
 Texas College Preparatory Academies,2011,15,2762,732.2,249,249,223
@@ -2823,7 +2823,7 @@ Texas College Preparatory Academies,2015,26,6120,802.3,486,486,392
 Texas College Preparatory Academies,2016,30,8157,1083.3,804,804,478
 Texas College Preparatory Academies,2017,31,9358,1362,1160,1159,582
 Texas College Preparatory Academies,2018,31,9481,1354.7,1213,1206,620
-Texas College Preparatory Academies,2019,27,9649,0,-7226,0,-3379
+Texas College Preparatory Academies,2019,27,9649,0,766,0,617
 Texas Empowerment Academy,1999,1,46,43.5,0,0,4
 Texas Empowerment Academy,2000,1,61,62.3,0,0,0
 Texas Empowerment Academy,2001,1,75,68,0,0,14
@@ -2844,7 +2844,7 @@ Texas Empowerment Academy,2015,2,271,200,0,0,15
 Texas Empowerment Academy,2016,2,287,141.7,0,0,16
 Texas Empowerment Academy,2017,2,294,134.5,0,0,18
 Texas Empowerment Academy,2018,2,297,165.2,0,0,23
-Texas Empowerment Academy,2019,2,366,0,0,0,-1998
+Texas Empowerment Academy,2019,2,366,0,0,0,0
 Texas Leadership,2010,1,633,45.3,0,0,44
 Texas Leadership,2011,1,745,44.8,10,6,45
 Texas Leadership,2012,1,836,46.1,10,10,52
@@ -2854,7 +2854,7 @@ Texas Leadership,2015,3,1766,142.5,44,36,100
 Texas Leadership,2016,4,2332,203.4,104,99,149
 Texas Leadership,2017,4,2656,205.2,107,104,180
 Texas Leadership,2018,4,2737,210.7,111,109,188
-Texas Leadership,2019,4,2962,0,-1933,0,255
+Texas Leadership,2019,4,2962,0,65,0,255
 Texas Preparatory School,2002,1,87,1.1,0,0,8
 Texas Preparatory School,2003,1,117,56.4,0,0,17
 Texas Preparatory School,2004,1,124,53.2,1,1,18
@@ -2872,7 +2872,7 @@ Texas Preparatory School,2015,2,280,143.7,0,0,24
 Texas Preparatory School,2016,2,251,147.6,0,0,21
 Texas Preparatory School,2017,2,287,151.3,0,0,28
 Texas Preparatory School,2018,2,248,147.7,0,0,28
-Texas Preparatory School,2019,2,191,0,0,0,-1998
+Texas Preparatory School,2019,2,191,0,0,0,0
 Texas School Of The Arts,2008,1,133,0,1,1,2
 Texas School Of The Arts,2009,1,153,3.9,1,1,12
 Texas School Of The Arts,2010,1,155,1.9,0,4,8
@@ -2903,13 +2903,13 @@ Texas Serenity Academy,2015,1,408,91.9,158,146,31
 Texas Serenity Academy,2016,1,387,93.8,156,143,22
 Texas Serenity Academy,2017,2,507,163.4,170,160,27
 Texas Serenity Academy,2018,2,503,190.5,117,111,26
-Texas Serenity Academy,2019,2,486,0,-1998,0,40
+Texas Serenity Academy,2019,2,486,0,0,0,40
 The Excel Center,2015,1,132,80.3,0,0,0
 The Excel Center,2016,2,426,122.1,21,21,12
 The Excel Center,2017,3,374,111.4,103,103,9
 The Excel Center,2018,3,546,191.9,196,196,21
-The Excel Center,2019,1,396,0,0,0,-999
-The Excel Center (For Adults),2019,5,310,0,0,0,-999
+The Excel Center,2019,1,396,0,0,0,0
+The Excel Center (For Adults),2019,5,310,0,0,0,0
 The Lawson Academy,2012,1,276,73.9,12,0,13
 The Lawson Academy,2013,1,229,63.8,10,0,14
 The Lawson Academy,2014,1,201,72.6,13,0,16
@@ -2938,7 +2938,7 @@ The Rhodes School,2015,2,804,137.1,21,14,33
 The Rhodes School,2016,3,914,248.4,27,19,54
 The Rhodes School,2017,4,1186,289.6,24,19,89
 The Rhodes School,2018,4,1177,237,33,28,90
-The Rhodes School,2019,3,882,0,26,0,-1953
+The Rhodes School,2019,3,882,0,26,0,45
 The School Of Liberal Arts And Sciences,2000,1,42,66.7,11,12,0
 The School Of Liberal Arts And Sciences,2001,1,64,79.7,18,18,4
 The School Of Liberal Arts And Sciences,2002,1,119,68.1,43,42,2
@@ -2970,7 +2970,7 @@ The Varnett Public School,2015,3,1614,296.4,640,600,40
 The Varnett Public School,2016,3,1668,258.6,679,665,42
 The Varnett Public School,2017,3,1607,262,707,673,51
 The Varnett Public School,2018,4,1474,294,720,684,61
-The Varnett Public School,2019,4,1576,0,657,0,-1958
+The Varnett Public School,2019,4,1576,0,657,0,40
 Theresa B Lee Academy,2000,1,125,59.2,0,0,2
 Theresa B Lee Academy,2001,1,176,60.2,1,2,12
 Theresa B Lee Academy,2002,1,240,97.5,1,1,16
@@ -3017,7 +3017,7 @@ Treetops School International,2015,1,363,10.7,0,2,21
 Treetops School International,2016,1,392,13,0,2,22
 Treetops School International,2017,1,415,16.4,0,2,25
 Treetops School International,2018,1,381,17.6,4,4,23
-Treetops School International,2019,1,387,0,-999,0,21
+Treetops School International,2019,1,387,0,0,0,21
 Trinity Basin Preparatory,2000,1,253,75.1,0,0,0
 Trinity Basin Preparatory,2001,1,613,91.5,0,0,16
 Trinity Basin Preparatory,2002,1,674,76.1,205,205,7
@@ -3052,7 +3052,7 @@ Trinity Charter School,2015,7,490,698.8,65,65,198
 Trinity Charter School,2016,7,496,700,78,78,179
 Trinity Charter School,2017,8,597,800,174,174,160
 Trinity Charter School,2018,8,503,800,131,131,151
-Trinity Charter School,2019,10,399,0,-1985,0,-4846
+Trinity Charter School,2019,10,399,0,13,0,149
 Trinity Environmental Academy,2016,1,143,90.2,12,9,14
 Trinity Environmental Academy,2017,1,239,91.2,9,8,22
 Trinity Environmental Academy,2018,2,318,183.5,23,22,24
@@ -3080,14 +3080,14 @@ Two Dimensions Preparatory Academy,2015,3,533,285.5,35,35,13
 Two Dimensions Preparatory Academy,2016,3,486,289.8,27,27,14
 Two Dimensions Preparatory Academy,2017,3,534,289.1,26,26,9
 Two Dimensions Preparatory Academy,2018,3,536,283.5,29,29,11
-Two Dimensions Preparatory Academy,2019,3,537,0,-1983,0,-1998
+Two Dimensions Preparatory Academy,2019,3,537,0,15,0,0
 Ume Preparatory Academy,2013,1,337,13.4,7,6,9
 Ume Preparatory Academy,2014,1,392,17.1,9,8,21
 Ume Preparatory Academy,2015,1,413,22,11,11,22
 Ume Preparatory Academy,2016,1,429,27.7,12,12,20
 Ume Preparatory Academy,2017,2,627,70.5,11,11,23
 Ume Preparatory Academy,2018,2,790,40.4,28,27,34
-Ume Preparatory Academy,2019,2,1197,0,64,0,-1998
+Ume Preparatory Academy,2019,2,1197,0,64,0,0
 Universal Academy,1999,1,76,32.9,0,0,0
 Universal Academy,2000,1,382,47.6,0,4,27
 Universal Academy,2001,1,768,41.5,0,3,37
@@ -3131,7 +3131,7 @@ University of Houston Charter Schools,2016,1,121,24.8,2,2,8
 University of Houston Charter Schools,2017,1,128,32.8,7,4,12
 University of Houston Charter Schools,2018,1,127,52,2,1,15
 University of Houston Charter Schools,2019,1,131,0,0,0,16
-University Of Texas At Austin H S,2019,1,247,0,0,0,-999
+University Of Texas At Austin H S,2019,1,247,0,0,0,0
 university Of Texas Elementary Charters,2004,1,113,69.9,3,3,8
 university Of Texas Elementary Charters,2005,1,150,75.3,7,7,10
 university Of Texas Elementary Charters,2006,1,178,62.4,12,12,18
@@ -3148,7 +3148,7 @@ university Of Texas Elementary Charters,2016,1,303,53.1,72,68,15
 university Of Texas Elementary Charters,2017,1,304,57.9,78,75,19
 university Of Texas Elementary Charters,2018,1,295,53.6,76,75,20
 university Of Texas Elementary Charters,2019,1,295,0,47,0,46
-University Of Texas University Cha,2019,3,70,0,-999,0,-1984
+University Of Texas University Cha,2019,3,70,0,0,0,14
 University Of Texas University Charters,2000,4,44,0,0,0,32
 University Of Texas University Charters,2001,7,125,0,0,0,100
 University Of Texas University Charters,2002,11,229,627.7,0,0,166
@@ -3168,7 +3168,7 @@ University Of Texas University Charters,2015,13,439,809.5,31,30,162
 University Of Texas University Charters,2016,20,567,1065.5,32,32,192
 University Of Texas University Charters,2017,21,583,947.8,28,28,196
 University Of Texas University Charters,2018,20,674,1038.4,76,76,218
-University Of Texas University Charters,2019,20,507,0,-6982,0,-7832
+University Of Texas University Charters,2019,20,507,0,11,0,160
 Uplift Education,1998,1,218,2.3,0,0,4
 Uplift Education,1999,1,360,0,0,0,9
 Uplift Education,2000,1,409,0,0,0,9
@@ -3190,14 +3190,14 @@ Uplift Education,2015,27,11958,1971.5,3540,3365,729
 Uplift Education,2016,29,13959,2168.6,4447,4393,852
 Uplift Education,2017,34,15768,2550.4,4973,4906,1050
 Uplift Education,2018,37,17291,2880.9,5485,5596,1208
-Uplift Education,2019,38,20068,0,-1904,0,1556
+Uplift Education,2019,38,20068,0,3091,0,1556
 Ut Tyler Innovation Academy,2013,3,278,38.7,1,0,10
 Ut Tyler Innovation Academy,2014,3,467,69.3,0,0,32
 Ut Tyler Innovation Academy,2015,3,545,60.4,6,4,33
 Ut Tyler Innovation Academy,2016,3,548,64.7,18,17,32
 Ut Tyler Innovation Academy,2017,3,636,69.6,15,14,43
 Ut Tyler Innovation Academy,2018,3,700,56.2,14,12,44
-Ut Tyler Innovation Academy,2019,3,844,0,-1998,0,57
+Ut Tyler Innovation Academy,2019,3,844,0,0,0,57
 UTPB Stem Academy,2015,1,301,9.6,0,0,14
 UTPB Stem Academy,2016,1,323,9.9,1,1,17
 UTPB Stem Academy,2017,1,563,16.9,0,0,23
@@ -3206,7 +3206,7 @@ UTPB Stem Academy,2019,1,769,0,10,0,44
 Valley High,2000,1,199,98.5,0,0,2
 Valley High,2001,1,257,93,0,0,0
 Valley High,2002,1,382,80.4,0,0,9
-Valor Public Schools,2019,1,532,0,-999,0,34
+Valor Public Schools,2019,1,532,0,0,0,34
 Vanguard Academy,2002,1,48,91.7,0,0,4
 Vanguard Academy,2003,1,119,83.2,39,39,10
 Vanguard Academy,2004,1,167,87.4,58,58,11
@@ -3375,7 +3375,7 @@ Yes Prep Public Schools Inc,2015,11,8450,916.9,1173,1109,483
 Yes Prep Public Schools Inc,2016,12,9514,999.1,1286,1207,546
 Yes Prep Public Schools Inc,2017,12,10258,1042,1683,1621,600
 Yes Prep Public Schools Inc,2018,13,10895,665.7,2120,2005,661
-Yes Prep Public Schools Inc,2019,15,12074,0,-5994,0,-1253
+Yes Prep Public Schools Inc,2019,15,12074,0,0,0,745
 Zoe Learning Academy,2002,1,167,100,0,0,13
 Zoe Learning Academy,2003,1,219,95.9,0,0,26
 Zoe Learning Academy,2004,1,303,92.1,0,0,31
