@@ -2,8 +2,8 @@
 
 
 // global variable for the path to the historical districts data file
-var districtsFile = 'data/qrySumStatsAllDistAllYears_v2.csv';
-var chartersFile  = 'data/qrySumStatsAllCharterDistAllYears_v2.csv';
+var districtsFile = 'data/qrySumStatsAllDistAllYears_2020_v1.csv';
+var chartersFile  = 'data/qrySumStatsAllCharterDistAllYears_2020_v1.csv';
 
 // mappings of field names in the CSV & mapbox account to variable names for local use.  Update references here to follow any field renaming in the data sources; add items using the same basic structure to add options.
 var fieldMappings = {
@@ -548,7 +548,7 @@ function drawChart() {
 		g.append("text")
 			.attr("id", "left-axis-label")
 			.attr("fill", chartData.leftColor)
-			.attr("y", 10-margin.left).attr("dy", "1ex")
+			.attr("y", 20-margin.left).attr("dy", "1ex")
 			.attr("text-anchor", "end")
 			.text((chartData.showRatio.leftField ? "% " : "# ") + chartData.leftField.chartLabel);
 		g.append("text")
