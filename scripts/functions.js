@@ -17,7 +17,7 @@ var fieldMappings = {
 	},
 	disadvantagedStudents: {
 		mapboxVarName: 'CPETECOC',
-		csvVarName: 'SumOfCPETECOC',
+		csvVarName: 'SumOfCPETECOPNUM',
 		popupLabel: 'Economically Disadvantaged Students',
 		selectorLabel: 'economically disadvantaged students',
 		chartLabel: 'disadvantaged',
