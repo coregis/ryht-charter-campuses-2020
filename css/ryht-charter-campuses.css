@@ -90,7 +90,7 @@ a {
 #chart-controls span#chart-close-link {
 	float: right;
 	text-align: right;
-	margin-right: 0;
+	margin-right: 10px;
 }
 
 #chart-controls .closebtn {
