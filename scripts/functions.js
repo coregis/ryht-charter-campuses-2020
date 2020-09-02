@@ -548,7 +548,7 @@ function drawChart() {
 		g.append("text")
 			.attr("id", "left-axis-label")
 			.attr("fill", chartData.leftColor)
-			.attr("y", 20-margin.left).attr("dy", "1ex")
+			.attr("y", 30-margin.left).attr("dy", "1ex")
 			.attr("text-anchor", "end")
 			.text((chartData.showRatio.leftField ? "% " : "# ") + chartData.leftField.chartLabel);
 		g.append("text")
