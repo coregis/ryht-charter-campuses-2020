@@ -2,8 +2,8 @@
 
 
 // global variable for the path to the historical districts data file
-var districtsFile = 'data/qrySumStatsAllDistAllYears_2020_v2.csv';
-var chartersFile  = 'data/qrySumStatsAllCharterDistAllYears_2020_v2.csv';
+var districtsFile = 'data/qrySumStatsAllDistAllYears_2020_v3.csv';
+var chartersFile  = 'data/qrySumStatsAllCharterDistAllYears_2020_v3.csv';
 
 // mappings of field names in the CSV & mapbox account to variable names for local use.  Update references here to follow any field renaming in the data sources; add items using the same basic structure to add options.
 var fieldMappings = {
@@ -17,7 +17,7 @@ var fieldMappings = {
 	},
 	disadvantagedStudents: {
 		mapboxVarName: 'CPETECOC',
-		csvVarName: 'SumOfCPETECOPNUM',
+		csvVarName: 'SumOfCPETECOC',
 		popupLabel: 'Economically Disadvantaged Students',
 		selectorLabel: 'economically disadvantaged students',
 		chartLabel: 'disadvantaged',
