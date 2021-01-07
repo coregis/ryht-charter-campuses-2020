@@ -27,18 +27,18 @@ var fieldMappings = {
 	ellStudents: {
 		mapboxVarName: 'CPETLEPC',
 		csvVarName: 'SumOfCPETLEPC',
-		popupLabel: 'English Learners Students',
+		popupLabel: 'Limited English Proficiency',
 		selectorLabel: 'English learners students',
-		chartLabel: 'English learners',
+		chartLabel: 'Limited English proficiency',
 		tickFormat: '~s',
 		ratioBase: 'totalStudents'
 	},
 	bleStudents: {
 		mapboxVarName: 'CPETBILC',
 		csvVarName: 'SumOfCPETBILC',
-		popupLabel: 'Bilingual Education Students',
+		popupLabel: 'Bilingual/ESL Students',
 		selectorLabel: 'bilingual education students',
-		chartLabel: 'bilingual education',
+		chartLabel: 'bilingual/esl education',
 		tickFormat: '~s',
 		ratioBase: 'totalStudents'
 	},

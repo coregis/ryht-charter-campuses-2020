@@ -28,7 +28,7 @@ var loadedPolygonLayers = [];
 map.on('load', function() {
 	map.addSource('points',{
 		type:'vector',
-		url:'mapbox://core-gis.d6xp0h8m'
+		url:'mapbox://core-gis.d7cmqrb4'
 	});
 
 	//add point data from Mapbox
@@ -36,7 +36,7 @@ map.on('load', function() {
 		'id': 'campuses',
 		'type': 'circle',
 		'source':'points',
-		'source-layer':'charter_campuses_12_09_20_geo-06l6xt',
+		'source-layer':'charter_campuses_01_07_21_geo-11d6fp',
 		'filter':['==', ['number', ['get', 'year']], 1997],
 		'layout':{	},
 		'paint': {
