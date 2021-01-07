@@ -28,8 +28,8 @@ var fieldMappings = {
 		mapboxVarName: 'CPETLEPC',
 		csvVarName: 'SumOfCPETLEPC',
 		popupLabel: 'Limited English Proficiency',
-		selectorLabel: 'Limited English proficiency students',
-		chartLabel: 'Limited English proficiency',
+		selectorLabel: 'Limited English proficiency',
+		chartLabel: 'Ltd English proficiency',
 		tickFormat: '~s',
 		ratioBase: 'totalStudents'
 	},
